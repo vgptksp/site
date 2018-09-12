@@ -1,0 +1,20 @@
+{ 
+    "name": "vgptksp", 
+    "version": "1.0.0", 
+    "authors": [
+        "Max-php <max-php@mail.ru>"
+    ],
+    "description": "Install actual site vgptksp.vitebsk.by",
+    
+    
+    "ignore": [ 
+        ".gitignore"
+        
+    ],
+    "repository": {
+  "type": "git",
+  "url": "git://github.com/vgptksp/site.git"
+}
+    
+    
+} 
